@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>谷歌地球坐标_初稿2023年3月8日</name>
+    <Style id="SiteL_地球" xmlns="">
+      <IconStyle>
+        <color>FF0000FF</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="SiteH_地球" xmlns="">
+      <IconStyle>
+        <color>FF0000FF</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="Site_地球" xmlns="">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#SiteL_地球</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#SiteH_地球</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder xmlns="">
+      <name>地球</name>
+      <Placemark>
+        <styleUrl>#Site_地球</styleUrl>
+        <snippet />
+        <description><![CDATA[<div><span style="color:#408010">Creat by: vicentory</span></div><table border="1" width="300"  style="border-collapse: collapse">
+<tr><td width="25%" align="center">名称</td><td>三峡</td></tr>
+<tr><td width="25%" align="center">经度</td><td>111.0045723</td></tr>
+<tr><td width="25%" align="center">纬度</td><td>30.82670841</td></tr>
+<tr><td width="25%" align="center">海拔</td><td>0</td></tr></table>]]></description>
+        <name>三峡</name>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>111.0045723,30.82670841,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Site_地球</styleUrl>
+        <snippet />
+        <description><![CDATA[<div><span style="color:#408010">Creat by: vicentory</span></div><table border="1" width="300"  style="border-collapse: collapse">
+<tr><td width="25%" align="center">名称</td><td>埃菲尔铁塔</td></tr>
+<tr><td width="25%" align="center">经度</td><td>2.2934333</td></tr>
+<tr><td width="25%" align="center">纬度</td><td>48.8587611</td></tr>
+<tr><td width="25%" align="center">海拔</td><td>0</td></tr></table>]]></description>
+        <name>埃菲尔铁塔</name>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>2.2934333,48.8587611,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Site_地球</styleUrl>
+        <snippet />
+        <description><![CDATA[<div><span style="color:#408010">Creat by: vicentory</span></div><table border="1" width="300"  style="border-collapse: collapse">
+<tr><td width="25%" align="center">名称</td><td>北京故宫</td></tr>
+<tr><td width="25%" align="center">经度</td><td>116.390813881546</td></tr>
+<tr><td width="25%" align="center">纬度</td><td>39.9169055603572</td></tr>
+<tr><td width="25%" align="center">海拔</td><td>0</td></tr></table>]]></description>
+        <name>北京故宫</name>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>116.390813881546,39.9169055603572,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Site_地球</styleUrl>
+        <snippet />
+        <description><![CDATA[<div><span style="color:#408010">Creat by: vicentory</span></div><table border="1" width="300"  style="border-collapse: collapse">
+<tr><td width="25%" align="center">名称</td><td>澳大利亚悉尼歌剧院</td></tr>
+<tr><td width="25%" align="center">经度</td><td>151.2156222</td></tr>
+<tr><td width="25%" align="center">纬度</td><td>-33.85724167</td></tr>
+<tr><td width="25%" align="center">海拔</td><td>0</td></tr></table>]]></description>
+        <name>澳大利亚悉尼歌剧院</name>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>151.2156222,-33.85724167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Site_地球</styleUrl>
+        <snippet />
+        <description><![CDATA[<div><span style="color:#408010">Creat by: vicentory</span></div><table border="1" width="300"  style="border-collapse: collapse">
+<tr><td width="25%" align="center">名称</td><td>美国纽约世贸遗址</td></tr>
+<tr><td width="25%" align="center">经度</td><td>-74.01281111</td></tr>
+<tr><td width="25%" align="center">纬度</td><td>40.7112</td></tr>
+<tr><td width="25%" align="center">海拔</td><td>0</td></tr></table>]]></description>
+        <name>美国纽约世贸遗址</name>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-74.01281111,40.7112,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Site_地球</styleUrl>
+        <snippet />
+        <description><![CDATA[<div><span style="color:#408010">Creat by: vicentory</span></div><table border="1" width="300"  style="border-collapse: collapse">
+<tr><td width="25%" align="center">名称</td><td>戴维斯空军基地</td></tr>
+<tr><td width="25%" align="center">经度</td><td>-110.854884</td></tr>
+<tr><td width="25%" align="center">纬度</td><td>32.165978</td></tr>
+<tr><td width="25%" align="center">海拔</td><td>0</td></tr></table>]]></description>
+        <name>戴维斯空军基地</name>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-110.854884,32.165978,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Site_地球</styleUrl>
+        <snippet />
+        <description><![CDATA[<div><span style="color:#408010">Creat by: vicentory</span></div><table border="1" width="300"  style="border-collapse: collapse">
+<tr><td width="25%" align="center">名称</td><td>珠穆朗玛峰</td></tr>
+<tr><td width="25%" align="center">经度</td><td>86.92421724</td></tr>
+<tr><td width="25%" align="center">纬度</td><td>27.97444408</td></tr>
+<tr><td width="25%" align="center">海拔</td><td>0</td></tr></table>]]></description>
+        <name>珠穆朗玛峰</name>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>86.92421724,27.97444408,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Site_地球</styleUrl>
+        <snippet />
+        <description><![CDATA[<div><span style="color:#408010">Creat by: vicentory</span></div><table border="1" width="300"  style="border-collapse: collapse">
+<tr><td width="25%" align="center">名称</td><td>比尔盖茨豪宅</td></tr>
+<tr><td width="25%" align="center">经度</td><td>-122.241891</td></tr>
+<tr><td width="25%" align="center">纬度</td><td>47.627785</td></tr>
+<tr><td width="25%" align="center">海拔</td><td>0</td></tr></table>]]></description>
+        <name>比尔盖茨豪宅</name>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-122.241891,47.627785,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Site_地球</styleUrl>
+        <snippet />
+        <description><![CDATA[<div><span style="color:#408010">Creat by: vicentory</span></div><table border="1" width="300"  style="border-collapse: collapse">
+<tr><td width="25%" align="center">名称</td><td>雅典-卫城</td></tr>
+<tr><td width="25%" align="center">经度</td><td>23.72578056</td></tr>
+<tr><td width="25%" align="center">纬度</td><td>37.97190833</td></tr>
+<tr><td width="25%" align="center">海拔</td><td>0</td></tr></table>]]></description>
+        <name>雅典-卫城</name>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>23.72578056,37.97190833,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
