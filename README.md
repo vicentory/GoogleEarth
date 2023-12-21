@@ -6,4 +6,4 @@
 - 国家公园，大好河山，大江大河系列。
 - 如有好玩的地点，欢迎反馈或在线添加。
 - 谷歌地球完整链接https://www.google.com/maps/d/u/0/edit?mid=1GbIP6MrWPGZWdPzxsFGyWR0xbCvWW60&ll=39.91746127886472%2C116.38969126806069&z=16
-## 短网址链接https://goo.su/SpJaDUI。
+## 短网址链接https://goo.su/SpJaDUI
